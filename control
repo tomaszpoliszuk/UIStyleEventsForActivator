@@ -1,0 +1,12 @@
+Package: com.tomaszpoliszuk.uistyleeventsforactivator
+Depends: firmware (>= 13.0), mobilesubstrate, libactivator
+Name: UI Style Events for Activator
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Events for Activator that let you trigger Activator Listeners when UI Style changes.
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Tomasz Poliszuk
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Addons (Activator)
+dev: tomaszpoliszuk
+Tag: purpose::extension, compatible::ios13
